@@ -1,8 +1,8 @@
 # UAVPairs: A Benchmark for Match Pair Retrieval of Large-scale UAV Images
 
-![image-20251019153418429](F:\ljh\Code\UAVPairs-main\image-20251019153418429.png)
+![image-20251019153418429](Resources/image-20251019153418429.png)
 
-![image-20251019153552279](F:\ljh\Code\UAVPairs-main\image-20251019153552279.png)
+![image-20251019153552279](Resources/image-20251019153552279.png)
 
 ## About
 

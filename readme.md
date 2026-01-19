@@ -65,7 +65,7 @@ uavpairs
 
 ## Checkpoints
 
-https://pan.quark.cn/s/6697839492d3
+https://pan.quark.cn/s/584139b94bf6
 
 ```
 checkpoints                          

@@ -22,7 +22,7 @@ UAVPairs is a large-scale benchmark dataset designed for match pair retrieval of
 
 ## Dataset
 
-https://pan.quark.cn/s/14615ca6621d
+https://data.mendeley.com/datasets/2x67rch5ys/2
 
 https://drive.google.com/file/d/18c7-QnU7vKB4VmsfYCMlBolpbnb11IkG/view?usp=drive_link
 
